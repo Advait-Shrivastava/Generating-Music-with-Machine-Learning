@@ -1,6 +1,6 @@
 # Generating Music using Machine Learning
 
-#### [Presentation Link](https://docs.google.com/presentation/d/1V-micNrzq0yJaJ66c9xed9ObUwWzuwY59sF2TQcUopI/edit?usp=sharing).
+#### [Presentation Link](https://docs.google.com/presentation/d/1V-micNrzq0yJaJ66c9xed9ObUwWzuwY59sF2TQcUopI/edit?usp=sharing)
 
 ## Dataset and preprocesing
 - We have used "ABC notation" for dataset. You can find ABC notation data [here](https://abc.sourceforge.net/NMD/).
